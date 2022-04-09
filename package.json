@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "dependencies": {
+        "app.init": "github:classtype/app.init",
+        "express": "4.17.3"
+    }
+}
